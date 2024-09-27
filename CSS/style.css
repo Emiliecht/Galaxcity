@@ -1,0 +1,20 @@
+@import url(Swiss,-apple-system,BlinkMacSystemFont,Segoe,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica,sans-serif);
+
+@import url(Component/banner.css);
+@import url(Component/button.css);
+@import url(Component/card.css);
+@import url(Component/container.css);
+@import url(Component/footer.css);
+@import url(Component/header.css);
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Swiss, -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,122 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  font-family: Swiss, -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+.container h2 {
+  font-size: 30px;
+}
+
+.image-text-section {
+  display: flex;
+  align-items: center; 
+  justify-content: space-between; 
+  padding: 20px;
+  text-align: left;
+}
+
+.image-container {
+  flex: 1; 
+  padding-right: 10px; 
+  margin: 50px;
+  margin-left: -20px;
+
+}
+
+.image-container img {
+  width: 100%; 
+  height: auto; 
+  border-radius: 10px; 
+}
+
+.text-container {
+  flex: 1; 
+  padding-left: 20px; 
+}
+
+.text-container h2 {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+.text-container p {
+  font-size: 20px;
+  color: #555;
+  line-height: 1.5;
+}
+
+
+
+body {
+  margin: 0; 
+}
+
+.centered-image-section {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  padding: 20px; 
+}
+
+.image-container {
+  width: 105%; 
+}
+
+.image-container img {
+  width: 100%; 
+  height: auto; 
+  border-radius: 10px; 
+}
+
+
+
+
+
+.image-text-section {
+  display: flex;
+  align-items: center; 
+  justify-content: space-between; 
+  padding: 20px;
+  text-align: left;
+}
+
+.image-container {
+  flex: 1; 
+  padding-right: 10px; 
+  margin: 50px;
+  margin-left: -20px;
+
+}
+
+.image-container img {
+  width: 100%; 
+  height: auto; 
+  border-radius: 10px; 
+  margin-left: 40px;
+}
+
+.text-container {
+  flex: 1; 
+  padding-left: 20px; 
+}
+
+.text-container h2 {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+.text-container p {
+  font-size: 20px;
+  color: #555;
+  line-height: 1.5;
+}

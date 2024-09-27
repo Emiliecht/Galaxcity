@@ -1,0 +1,42 @@
+.footer {
+  background-color:#7ba9ad ;
+  color: white;
+  padding: 50px 0;
+  margin: 0;
+  text-align: center;
+}
+
+
+.footer p {
+  font-size: 0.8em;
+  margin-top: 60px;
+}
+
+.login-form {
+  display: flex;
+  align-items: center;
+
+}
+
+.login-form input {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-form button {
+    background-color: #7ba9ad;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 80px;
+  }
+
+
+.login-form button:hover {
+  background-color: #ffffff;
+  color: black;
+}
